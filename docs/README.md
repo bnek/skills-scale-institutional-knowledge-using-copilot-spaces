@@ -10,7 +10,9 @@ OctoAcme follows a structured five-phase project lifecycle: Initiation, Planning
 
 ### Roles & Responsibilities
 
-Three core personas drive project delivery at OctoAcme. Project Managers (PMs) coordinate schedules, manage risks, facilitate meetings, and maintain transparency through consistent documentation and status reporting. Product Managers (PdMs) define what should be built by owning the product vision, prioritizing the backlog, and measuring outcomes through data-driven decisions. Developers implement features, write and maintain tests, participate in code reviews, and help identify technical risks. Additional roles include QA/Testing for validating quality and acceptance criteria, and Stakeholders who provide inputs and approvals. This clear ownership model—where every project has a named PM and Product Lead—ensures accountability throughout delivery.
+OctoAcme projects involve a diverse set of cross-functional roles working together. Three core personas drive project delivery: Project Managers (PMs) coordinate schedules, manage risks, facilitate meetings, and maintain transparency through consistent documentation and status reporting. Product Managers (PdMs) define what should be built by owning the product vision, prioritizing the backlog, and measuring outcomes through data-driven decisions. Developers implement features, write and maintain tests, participate in code reviews, and help identify technical risks. 
+
+Specialized roles expand the team's capabilities: Scrum Masters facilitate Agile ceremonies and remove impediments; UX/UI Designers create user-centered experiences; Business Analysts bridge stakeholders and delivery teams; DevOps Engineers manage infrastructure and CI/CD; QA Automation Engineers build automated test frameworks; Technical Writers maintain documentation; and Sponsors/Executive Stakeholders provide strategic direction and funding. This clear ownership model—where every project has a named PM and Product Lead—ensures accountability, while the extended role set enables teams to scale and handle complex cross-functional initiatives.
 
 ### Communication & Execution Cadence
 
@@ -30,6 +32,8 @@ Quality is embedded into the delivery process through comprehensive testing prac
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Interaction Matrix](octoacme-role-interaction-matrix.md)
+- [Team Onboarding Checklist](octoacme-team-onboarding-checklist.md)
 
 ---
 
