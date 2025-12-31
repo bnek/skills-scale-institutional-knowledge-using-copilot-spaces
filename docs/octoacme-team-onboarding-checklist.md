@@ -20,7 +20,7 @@ Applicable to all new team members joining project teams, including developers, 
 - [ ] GitHub organization access granted
 - [ ] Added to relevant repositories
 - [ ] Project board access (GitHub Projects or similar)
-- [ ] Access to documentation repositories (.copilot/ spaces if applicable)
+- [ ] Access to documentation repositories (.copilot/ spaces, if applicable)
 - [ ] CI/CD and deployment tool access (as appropriate for role)
 - [ ] Monitoring and observability tools access
 
@@ -49,7 +49,7 @@ Applicable to all new team members joining project teams, including developers, 
 - [ ] Review risk register and known dependencies
 - [ ] Familiarize with project board workflow and column definitions
 
-### Development Environment (Technical Roles)
+### Development Environment (for Developers, QA Automation Engineers, DevOps Engineers)
 - [ ] Clone relevant repositories
 - [ ] Set up local development environment
 - [ ] Run build and test suites successfully
